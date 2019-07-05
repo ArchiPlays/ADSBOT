@@ -1,0 +1,16 @@
+{
+  "name": "ads-keycheck",
+  "version": "1.0.0",
+  "description": "Checks if the provided key for the product from ADS™ 2019.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ArchiPlaysPro",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.29.2"
+  }
+}
